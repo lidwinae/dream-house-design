@@ -7,7 +7,7 @@ Aplikasi katalog desain rumah berbasis web dengan Docker, React, Express, MySQL,
 Berikut adalah ilustrasi topologi komunikasi antar layanan dalam aplikasi ini:
 
 
-![Topologi Komunikasi](diagram/Topologi komunikasi 2.png)
+![image](https://github.com/lidwinae/dream-house-design/blob/main/diagram/Topologi%20Komunikasi%202.png) 
 
 ## 📦 Service Ports
 
