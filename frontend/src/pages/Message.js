@@ -41,7 +41,7 @@ function Message() {
           {/* Message Card */}
           <div className="bg-white rounded-lg shadow-md overflow-hidden mb-6">
             <div className="p-6">
-              <h2 className="text-2xl font-bold text-gray-800 mb-6">Pesan Anda</h2>
+              <h2 className="text-2xl font-bold text-gray-800 mb-6">Pesan Anda untuk Admin</h2>
               
               {/* Message Form */}
               <form onSubmit={handleSend} className="mb-6">
